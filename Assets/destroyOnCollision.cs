@@ -39,7 +39,6 @@ public class destroyOnCollision : MonoBehaviour {
         {
             script.StopDragging();
             Instantiate(BrokenVersion, transform.position, transform.rotation);
-            // Destroy(transform.root.gameObject); //getting the parent-actually idk why
             Destroy(gameObject);
         }
     }
