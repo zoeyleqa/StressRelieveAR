@@ -29,7 +29,14 @@ The script that's responsible for this functiontality is in `Assets/destroyOnCol
 </p>
 
 ## Demo
-coming soon ...
+This is a quick demo of the Stress Relieve AR app. 3 keywords of voice command were used: `crush`, `toss`, and `throw`. 
+***Note***: In this demo, `throw` command was designed with too much force (7000) which makes it look like the object disappeared. Spatial mapping was activated so that the porcelain objects can interact with objects in the room. As it was dropped in the video, the porcelain shattered on the floor or on real objects in the room.
+
+<p align="center">
+  <a href="https://youtu.be/Y7KxHFcewhE
+  " target="_blank"><img src="http://img.youtube.com/vi/Y7KxHFcewhE/0.jpg" 
+  alt="IMAGE ALT TEXT HERE" width="500" height="350" border="10" /></a>
+</p>
 
 ---------------------
 ヾ(｡･ω･｡)
